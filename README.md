@@ -16,3 +16,24 @@ The DRL procedure is presented as below:
 The Proximal Policy Optimization (PPO) was adopted as the reinforcement learning algorithms. The network architectures of standard PPO and ARP-DMDP-PPO are shown as below:
 
 ![Network architectures](./Figures/NetworkArchitectures.jpg)
+
+This work is based on the work of <a href="https://doi-org.manchester.idm.oclc.org/10.1063/1.5116415">Rabault et al.</a> and
+<a href="https://doi-org.manchester.idm.oclc.org/10.1063/5.0006492">Tang et al.</a>, and the reader can also refer to the [open source
+code](https://github.com/jerabaul29/Cylinder2DFlowControlDRLParallel) and (https://github.com/thw1021/Cylinder2DFlowControlGeneral).
+
+If you use this work for your research, please consider citing our work:
+```
+@article{mao2022active,
+  title={Active flow control using deep reinforcement learning with time delays in Markov decision process and autoregressive policy},
+  author={Mao, Yiqian and Zhong, Shan and Yin, Hujun},
+  journal={Physics of Fluids},
+  volume={34},
+  number={5},
+  pages={053602},
+  year={2022},
+  publisher={AIP Publishing LLC}
+}
+```
+
+# Contact and Support
+yiqian.mao@manchester.ac.uk (Yiqian Mao)
