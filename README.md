@@ -11,6 +11,8 @@ In this work, a Markov decision process (MDP) with time delays is introduced to 
 
 The DRL procedure is presented as below:
 
+<img src="./Figures/DRLProcedure.jpg" width="35%">
+
 ![DRL procedure](./Figures/DRLProcedure.jpg)
 
 The Proximal Policy Optimization (PPO) was adopted as the reinforcement learning algorithms. The network architectures of standard PPO and ARP-DMDP-PPO are shown as below:
